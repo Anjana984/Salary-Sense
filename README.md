@@ -1,6 +1,6 @@
 # Salary Sense
 
-Salary Sense is an under-development cross-platform money manager with an AI-based financial advising system built with:
+Salary Sense is an under-development cross-platform money manager built with:
 
 ```text
  ______________________________  ______________________________  ______________________________
